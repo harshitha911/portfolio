@@ -1,0 +1,87 @@
+{
+  "main": {
+    "name": "Harshitha",
+    
+    "description": "I'm a aspiring software engineer and data analyst",
+    "image": "IG_Sonny.jpeg",
+    "bio": "My name is Harshitha, I'm currently in final year, I'm currently studying data analyst and full stack ",
+    "contactmessage": "Get in touch with me to receive further details",
+    "email": "harshitha.ramana9@gmail.com",
+    "phone": "8825748352",
+    "address": {
+      "street": "52/175,palani andavar koil street,ayanavaram",
+      "city": "chennai",
+      "state": "Tamil Nadu",
+      "zip": "600023"
+    },
+    
+    "resumedownload": "https://s.docworkspace.com/d/AFudSdTUodg-oaLrjtmdFA",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/Harshitha Ramana",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/harshitha-r-41b052196/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/harshitha911",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "RMD engineering college",
+        "degree": "Electrical and electronic engineering",
+        "graduated": "september 2010",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    
+    "skills": [
+      
+      {
+        "name": "CSS",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "javascript",
+        "level": "60%"
+      },
+      {
+        "name":"Python",
+        "level":"90%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "IPL visualization",
+        "category": "IPL visualization built (javascript,html,css)",
+        "url": "https://determined-albattani-63746a.netlify.app/"
+      },
+      {
+        "title":"Profitable App profile for Google store and Apple Play markets",
+        "category":"data analysis using fundamentals of python",
+        "url":"https://github.com/harshitha911/profitable-app"
+      }
+      
+    ]
+  }
+}
