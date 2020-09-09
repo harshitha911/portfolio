@@ -1,10 +1,8 @@
 {
   "main": {
     "name": "Harshitha",
-    
-    "description": "I'm a aspiring software engineer and data analyst",
-    "image": "IG_Sonny.jpeg",
-    "bio": "My name is Harshitha, I'm currently in final year, I'm currently studying data analyst and full stack ",
+    "description": "I'm an aspiring software engineer and data analyst",
+    "bio": "My name is Harshitha, I'm currently in final year, I'm currently learning data analyst and full stack ",
     "contactmessage": "Get in touch with me to receive further details",
     "email": "harshitha.ramana9@gmail.com",
     "phone": "8825748352",
@@ -14,7 +12,7 @@
       "state": "Tamil Nadu",
       "zip": "600023"
     },
-    
+    "website": "https://s.docworkspace.com/d/AFudSdTUodg-oaLrjtmdFA",
     "resumedownload": "https://s.docworkspace.com/d/AFudSdTUodg-oaLrjtmdFA",
     "social": [
       {
@@ -40,9 +38,11 @@
       {
         "school": "RMD engineering college",
         "degree": "Electrical and electronic engineering",
-        "graduated": "september 2010",
+        "graduated": "september 2020",
         "description": "Graduated with Distinction"
       }
+    ],
+    "work": [
     ],
     
     "skills": [
@@ -81,6 +81,11 @@
         "category":"data analysis using fundamentals of python",
         "url":"https://github.com/harshitha911/profitable-app"
       }
+      
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
       
     ]
   }
